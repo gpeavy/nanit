@@ -21,7 +21,7 @@
       "Nanit"
    ],
    "scrypted": {
-      "name": "Nanit Camera Plugin",
+      "name": "Nanit Camera Plugin - No Battery",
       "type": "DeviceProvider",
       "interfaces": [
          "DeviceCreator",

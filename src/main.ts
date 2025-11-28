@@ -325,8 +325,7 @@ class NanitCameraPlugin extends ScryptedDeviceBase implements DeviceProvider, Se
             const interfaces = [
                 ScryptedInterface.Camera,
                 ScryptedInterface.VideoCamera,
-                ScryptedInterface.MotionSensor,
-                ScryptedInterface.Battery
+                ScryptedInterface.MotionSensor
             ];
 
             const device: Device = {
